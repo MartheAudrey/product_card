@@ -64,7 +64,7 @@ Users should be able to:
 
 ### Useful resources
 
-- [Example resource 1](https://www.youtube.com/watch?v=B2WL6KkqhLQ) - This helped me to code smartly without having to juggle multiple margins and switch between mobile and desktop views smoothly.
+- [Taking a Frontend Mentor Challenge by Kevin Powell](https://www.youtube.com/watch?v=B2WL6KkqhLQ) - This helped me to code smartly without having to juggle multiple margins and switch between mobile and desktop views smoothly.
 
 ## Author
 
